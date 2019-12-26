@@ -1,0 +1,252 @@
+[
+    {
+        "id": 1,
+        "question": "<span class='normal-text'><span class='strong-text'>Mia Farrow</span> es la actriz protagónica de la película \"El bebé de Rosemary\"</span>",
+        "answer": true
+    },
+    {
+        "id": 2,
+        "question": "<span class='normal-text'>Las heridas que sufre Frankie Page, el personaje principal de Stigmata, son provocadas por un extraño <span class='strong-text'>virus.</span></span>",
+        "answer": false
+    },
+    {
+        "id": 3,
+        "question": "<span class='normal-text'><span class='strong-text'>Dan Brown</span> es el autor de la novela en la que se basa la película \"Cementerio de animales\" <span>",
+        "answer":false
+    },
+    {
+        "id": 4,
+        "question": "<span class='normal-text'><span class='strong-text'>Robert Wien</span> es el director del clásico film \"El gabinete del Doctor Caligari\".</span>",
+        "answer":true
+    },
+    {
+        "id": 5,
+        "question": "<span class='normal-text'>El personaje de la niña en la película \"Poletergeist\" se llamaba <span class='strong-text'>Carrie.</span></span>",
+        "answer":false
+    },
+    {
+        "id": 6,
+        "question": "<span class='normal-text'>El jinete sin cabeza deambula por <span class='strong-text'>Sleepy Hollow</span> decapitando a sus víctimas.</span>",
+        "answer":true
+    },
+    {
+        "id": 7,
+        "question": "<span class='normal-text'><span class='strong-text'>Bram Stoker</span> fue el autor de la novela \"Drácula\" publicada en 1897.</span>",
+        "answer":true
+    },
+    {
+        "id": 8,
+        "question": "<span class='normal-text'><span class='strong-text'>Gore Verbinski</span> es el director de la remake norteamericana de \"The Ring\".</span>",
+        "answer":true
+    },
+    {
+        "id": 9,
+        "question": "<span class='normal-text'><span class='strong-text'>Satoshi Nakamoto</span> dirigió la versión original de la película \"The Ring\"</span>",
+        "answer":false
+    },
+    {
+        "id": 10,
+        "question": "<span class='normal-text'>El actor húngaro mundialmente conocido por encarnar a Drácula se llamaba <span class='strong-text'>Boris Karloff</span></span>",
+        "answer":false
+    },
+    {
+        "id": 11,
+        "question": "<span class='normal-text'>El verdadero número del diablo es <span class='strong-text'>616.</span></span>",
+        "answer":true
+    },
+    {
+        "id": 12,
+        "question": "<span class='normal-text'><span class='strong-text'>Roman Polanski</span> realizó un doble trabajo en el film \"El quimérico inquilino\".</span>",
+        "answer":true
+    },
+    {
+        "id": 13,
+        "question": "<span class='normal-text'>El nombre y apellido de la madre de Jason en la saga \"Viernes 13\" era <span class='strong-text'>Susan Voorhees</span></span>",
+        "answer":false
+    },
+    {
+        "id": 14,
+        "question": "<span class='normal-text'><span class='strong-text'>James Watkins</span> es el guionista de la película \"Eden Lake\".</span>",
+        "answer":true
+    },
+    {
+        "id": 15,
+        "question": "<span class='normal-text'>\"Cloverfield\" se estrenó en <span class='strong-text'>2008.</span></span>",
+        "answer":true
+    },
+    {
+        "id": 16,
+        "question": "<span class='normal-text'>En la casa de la película dirigida por Rob Zombie había <span class='strong-text'>200 cuerpos.</span></span>",
+        "answer":false
+    },
+    {
+        "id": 17,
+        "question": "<span class='normal-text'>La famosa \"Masacre\" que dio lugar a la película sucedió en <span class='strong-text'>California.</span></span>",
+        "answer":false
+    },
+    {
+        "id": 18,
+        "question": "<span class='normal-text'>El perro asesino de la película \"Cujo\" era un <span class='strong-text'>Dóberman.</span></span>",
+        "answer":false
+    },
+    {
+        "id": 19,
+        "question": "<span class='normal-text'>\"REC\" se filmó en la ciudad de <span class='strong-text'>Asunción.</span></span>",
+        "answer":false
+    },
+    {
+        "id": 20,
+        "question": "<span class='normal-text'>El nombre completo del respetado director Hitchcock era <span class='strong-text'>Alfred Joseph.</span></span>",
+        "answer":true
+    },
+    {
+        "id": 21,
+        "question": "<span class='normal-text'>Anthony Hopkins, el famoso Lecter, solo aparece durante <span class='strong-text'>17 minutos</span> en \"El silencio de los inocentes\".</span>",
+        "answer":true
+    },
+    {
+        "id": 22,
+        "question": "<span class='normal-text'>Debemos al pintor <span class='strong-text'>Salvador Dalí</span> el cráneo que aparece en la polilla del cartel de \"El silencio de los inocentes\".</span>",
+        "answer":true
+    },
+    {
+        "id": 23,
+        "question": "<span class='normal-text'>La planta carnívora de la famosa \"Tiendita del horror\" se llamaba <span class='strong-text'>Audry.</span></span>",
+        "answer":true
+    },
+    {
+        "id": 24,
+        "question": "<span class='normal-text'>La actriz protagónica de \"El orfanato\" es <span class='strong-text'>Paz Vega.</span></span>",
+        "answer":false
+    },
+    {
+        "id": 25,
+        "question": "<span class='normal-text'>La película \"El orfanato\" ganó <span class='strong-text'>siete premios Goya.</span></span>",
+        "answer":true
+    },
+    {
+        "id": 26,
+        "question": "<span class='normal-text'>El actor protagónico de \"American Psycho\" es <span class='strong-text'>Willem Dafoe</span></span>",
+        "answer":false
+    },
+    {
+        "id": 27,
+        "question": "<span class='normal-text'>Alex, el personaje principal de \"La naranja mecánica\" se deleita con una sinfonía de <span class='strong-text'>Mozart.</span></span>",
+        "answer":false
+    },
+    {
+        "id": 28,
+        "question": "<span class='normal-text'>La habitación del hotel Dolphin en la que John Cusack queda encerrado es la <span class='strong-text'>1503</span></span>",
+        "answer":false
+    },
+    {
+        "id": 29,
+        "question": "<span class='normal-text'>La remake de \"Carrie\" del año 2013 fue protagonizada por <span class='strong-text'>Scarlett Johansson.</span></span>",
+        "answer":false
+    },
+    {
+        "id": 30,
+        "question": "<span class='normal-text'>El asesino del film \"My Blody Valentine\" enviaba paquetes con <span class='strong-text'>corazones humanos.</span></span>",
+        "answer":true
+    },
+    {
+        "id": 31,
+        "question": "<span class='normal-text'>La película \"Francesca\" es un homenaje al llamado <span class='strong-text'>\"cine giallo\"</span> italiano.</span>",
+        "answer":true
+    },
+    {
+        "id": 32,
+        "question": "<span class='normal-text'>Las criaturas monstruosas de \"El descenso\" se llaman <span class='strong-text'>\"rastreadores\".</span></span>",
+        "answer":true
+    },
+    {
+        "id": 33,
+        "question": "<span class='normal-text'>La saga de \"REC\" se compone por <span class='strong-text'>cuatro películas.</span></span>",
+        "answer":true
+    },
+    {
+        "id": 34,
+        "question": "<span class='normal-text'>Jaume Balagueró es el director de la película <span class='strong-text'>\"REC\".</span></span>",
+        "answer":true
+    },
+    {
+        "id": 35,
+        "question": "<span class='normal-text'>En \"Vuelo Nocturno\" la actriz Rachel McAdams toma un avión a <span class='strong-text'>Nueva York.</span></span>",
+        "answer":false
+    },
+    {
+        "id": 36,
+        "question": "<span class='normal-text'>La saga de Amytiville, la casa del horror, no está basada en una <span class='strong-text'>historia real.</span></span>",
+        "answer":false
+    },
+    {
+        "id": 37,
+        "question": "<span class='normal-text'>El actor protagónico del primer film de la saga \"Terror en Amytiville\" es <span class='strong-text'>Ryan Reynolds.</span></span>",
+        "answer":false
+    },
+    {
+        "id": 38,
+        "question": "<span class='normal-text'>El famoso villano de las pesadillas se llamaba <span class='strong-text'>Freddy Killer.</span></span>",
+        "answer":false
+    },
+    {
+        "id": 39,
+        "question": "<span class='normal-text'>El genial <span class='strong-text'>John Goodman</span> es el actor protagónico de \"Av. Cloverfield 10\".</span>",
+        "answer":true
+    },
+    {
+        "id": 40,
+        "question": "<span class='normal-text'>La voz en off de la discusión telefónica del novio de la protagonista de \"Av. Cloverfield 10\" es la de <span class='strong-text'>Bradley Cooper.</span></span>",
+        "answer":true
+    },
+    {
+        "id": 41,
+        "question": "<span class='normal-text'>El director de la remake americana de \"Dark Water\" es <span class='strong-text'>Hideo Nakata.</span></span>",
+        "answer":false
+    },
+    {
+        "id": 42,
+        "question": "<span class='normal-text'>Vicent Price les promete 50 mil dólares a sus invitados en la película <span class='strong-text'>\"House on Haunted Hill\".</span></span>",
+        "answer":false
+    },
+    {
+        "id": 43,
+        "question": "<span class='normal-text'><span class='strong-text'>Hitchcock</span> es el director de la película \"THe Lady Vanishes\"</span>",
+        "answer":true
+    },
+    {
+        "id": 44,
+        "question": "<span class='normal-text'>\"La noche de los muertos vivientes\" de George Romero se estrenó en el año <span class='strong-text'>1975.</span></span>",
+        "answer":false
+    },
+    {
+        "id": 45,
+        "question": "<span class='normal-text'><span class='strong-text'>Antony Perkins</span> es Norman Bates en la película \"Psicosis\".</span>",
+        "answer":true
+    },
+    {
+        "id": 46,
+        "question": "<span class='normal-text'><span class='strong-text'>Gus Van Sant</span> dirigió la remake de \"Psicosis\" estrenada en 1998.</span>",
+        "answer":true
+    },
+    {
+        "id": 47,
+        "question": "<span class='normal-text'><span class='strong-text'>Francis Ford Coppola</span> nunca dirigió una película de terror.</span>",
+        "answer":false
+    },
+    {
+        "id": 48,
+        "question": "<span class='normal-text'>\"Poltergeist\" forma parte de una trilogía producida por <span class='strong-text'>Steven Spielberg.</span></span>",
+        "answer":true
+    },
+    {
+        "id": 49,
+        "question": "<span class='normal-text'><span class='strong-text'>Tom Cruise</span> es el actor que protagoniza \"World War Z\".</span>",
+        "answer":false
+    },
+    {
+        "id": 50,
+        "question": "<span class='normal-text'>En la película \"Thinner\" el personaje principal es maldecido y <span class='strong-text'>engorda</span> hasta morir.</span>",
+        "answer":false
+    }
+]

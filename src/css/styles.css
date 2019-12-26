@@ -1,0 +1,211 @@
+@font-face {
+    font-family: roboto;
+    src: url('./Roboto/Roboto-Regular.ttf');
+}
+@font-face {
+    font-family: PermanentMarker;
+    src: url('./Permanent_Marker/PermanentMarker-Regular.ttf');
+}
+html, body, #root{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    font-family: PermanentMarker;
+    height: 100%;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+header{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+header #logo{
+    width: 100%;
+}
+header .red-bar{
+    width: 100vw;
+    height: 4vw;
+    background-color: #c9252c;
+}
+.welcome{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+.main-text{
+    color: white;
+    font-size: 6.5vw;
+    text-align: center;
+    line-height: 7vw;
+    box-sizing: border-box;
+    width: 85vw;
+}
+.btn-start{
+    width: 40vw;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    background-color: #c9252c;
+    font-size: 6vw;
+    margin-top: 0vw;
+    padding: 2vw 10vw;
+    border-radius: 3px;
+    letter-spacing: 2px;
+}
+.ans-ques-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+}
+.strong-text{
+    font-weight: bolder;
+    color: white;
+    font-family: PermanentMarker;
+    letter-spacing: 2px;
+}
+.normal-text{
+    font-weight: normal;
+    color: white;
+    font-family: roboto;
+    letter-spacing: 1px;
+}
+.title{
+    color: white;
+    font-size: 7vw;
+    margin-bottom: 1vw;
+}
+.question-container{
+    display: flex;
+    width: 100vw;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    font-family: roboto;
+    padding: 2vw 2vw;
+    margin-top: 2vw;
+    box-sizing: border-box;
+    background-color: #c9252c;
+}
+.answer-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 100vw;
+    margin-top: 3vw;
+    padding: 2vw;
+    box-sizing: border-box;
+}
+.answer-title{
+    color: white;
+    font-size: 7vw;
+    font-family: roboto;
+}
+.buttons-container{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.btnTrue, .btnFalse{
+    width: 40vw;
+    color: white;
+    background-color: #c9252c;
+    padding: 2vw;
+    text-align: center;
+    border-radius: 3px;
+    font-size: 6vw;
+    letter-spacing: 2px;
+}
+.footer{
+    background-color: #c9252c;
+    color: white;
+    font-family: roboto;
+    font-size: 3vw;
+    text-align: center;
+    padding: 1vw;
+    box-sizing: border-box;
+}
+.progress{
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 4vw;
+    margin-top: 4vw;
+}
+.loader-container{
+    display: flex;
+    width: 100vw;
+    height: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.loader-container img{
+    width: 20vw;
+}
+.sub-title{
+    width: 70vw;
+    text-align: center;
+    color: white;
+    font-size: 5vw;
+    line-height: 5vw;
+    letter-spacing: 2px;
+}
+.btn-continue{
+    color: white;
+    margin-top: 5vw;
+    border: 1px solid #c9252c;
+    padding: 1vw 3vw;
+    border-radius: 3px;
+}
+.modal-info-container{
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    text-align: center;
+    box-sizing: border-box;
+}
+.points{
+    color: #c9252c;
+}
+.btn-continue-from-modal{
+    background-color: #c9252c;
+    color: white;
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 1vw;
+    border-radius: 3px;
+}
+.points-obtained{
+    color: white;
+    font-size: 4vw;
+}
+.modal-wifi-check{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.modal-wifi-check span{
+    text-align: center;
+}
+.btn-wifi{
+    background-color: #c9252c;
+    padding: 1vw 3vw;
+    border-radius: 0.5vw;
+    color: white;
+    margin-top: 7vw;
+}
